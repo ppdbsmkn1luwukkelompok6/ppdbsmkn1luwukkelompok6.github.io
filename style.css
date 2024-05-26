@@ -1,0 +1,187 @@
+/* body awal*/
+.bodyhal-utama {
+ background-image: url(b.png);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+
+.bodytkj {
+background-image: url(tkj.png);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.bodyakl {
+background-image: url(akl.png);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.bodyotkp {
+background-image: url(otkp.png);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+background-color: black;
+}
+
+.bodypkm {
+background-image: url(pkmbg.png);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+}
+
+.bodybdp {
+background-image: url(bdp.png);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 100%; 
+}
+
+.bodyupw {
+    background-image: url(upw.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%; 
+    }
+/* body selesai */
+
+
+
+
+
+
+
+
+/* codingan home awal */
+.h2-h3home {
+    color :white;
+}
+
+.h3-phome {
+    background-color: rgba(0, 0, 0, 0.611);
+    color: white;
+    border-radius: 8px;
+    padding: 7px 4px;
+}
+
+.h3home {
+    background-color: rgb(76, 73, 73);
+    border-radius: 8px;
+}
+
+.phome {
+    text-align: left;
+}
+/* codingan home selesai */
+
+
+
+
+
+
+
+
+/* codingan tkj html awal */
+.h2-ptkj {
+    color :white;
+    text-align: left;
+}
+
+.h3-ptkj {
+    color :white;
+    text-align: left;
+}
+/* codingan tkj html akir */
+
+
+
+
+
+
+
+/* codingan akl html awal */
+.h2-pakl {
+    color :white;
+}
+
+.pakl {
+    text-align: left;
+}
+
+.h3-pakl {
+    color :white;
+    text-align: left;
+}
+/* codingan akl html akir */
+
+
+
+
+
+
+/* codingan otkp awal */
+.h2-potkp {
+    color :white;
+}
+
+.potkp {
+    text-align: left;
+}
+
+.h3-potkp {
+    color :white;
+    text-align: left; 
+}
+/* codingan otkp akir */
+
+
+
+
+/* codingan pkm awal */
+.h2-ppkm {
+    color :white;
+}
+
+.ppkm {
+    text-align: left;
+}
+
+.h3-ppkm {
+    color :white;
+    text-align: left; 
+}
+/* codingan pkm akir */
+
+
+
+
+
+
+/* codingan bdp awal */
+.h2-pbdp {
+    color :white;
+}
+
+.pbdp {
+    text-align: left;
+}
+
+.h3-pbdp {
+    text-align: left; 
+    color :white;
+}
+/* codingan bdp akir */
+
